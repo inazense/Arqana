@@ -1,12 +1,20 @@
-
 .container {
     margin-top: 5em;
+}
+
+.container h2 {
+    font-family: fontAdam;
+    padding-left: 0.6em;
+}
+
+.projectsContent {
+    border-top: 2px solid #a7afb6;
 }
 
 .title {
     color: #1a1a1a;
     text-align: center;
-    margin-bottom: 10px
+    margin-bottom: 10px;
 }
 
 .content {

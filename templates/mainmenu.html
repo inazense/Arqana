@@ -4,17 +4,17 @@
 		<!-- left side -->
 		<div class="collapse navbar-collapse order-lg-1 order-3 navigation-menu">
 			<ul class="navbar-nav mr-auto">
-				<li class="nav-item active">
-					<a class="nav-link adam" href="#">Home</span></a>
+				<li class="nav-item active" id="liHome">
+					<a class="nav-link adam scroll-link" href="#" onclick="changeMenuClass('liHome')">Home</span></a>
 				</li>
-				<li class="nav-item">
-					<a class="nav-link adam" href="#">Proyectos</a>
+				<li class="nav-item" id="liProjects">
+					<a class="nav-link adam scroll-link" href="#sectionProjects" onclick="changeMenuClass('liProjects')">Proyectos</a>
 				</li>
 			</ul>
 		</div>
 
 		<!-- title -->
-		<a class="navbar-brand order-1 mr-lg-0 adam" href="#"	>ARQANA</a>
+		<a class="navbar-brand order-1 mr-lg-0 adam" href="/index.html">ARQANA</a>
 		<!--
 		TODO: Replace previous tag with this one when the logo is ready
 		<a class="navbar-brand order-1 mr-lg-0 adam" href="#">
@@ -29,10 +29,10 @@
 		<div class="collapse navbar-collapse order-lg-3 order-4 navigation-menu">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link adam" href="#">¿Quién soy?</span></a>
+					<a class="nav-link adam scroll-link" href="#sectionMe" id="liWhoAmI" onclick="changeMenuClass('liWhoAmI')">¿Quién soy?</span></a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link adam" href="#">Contacto</a>
+					<a class="nav-link adam scroll-link" href="#sectionContact" id="liContact" onclick="changeMenuClass('liContact')">Contacto</a>
 				</li>
 			</ul>
 		</div>
