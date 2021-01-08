@@ -6,3 +6,10 @@ function changeMenuClass(newElement)
 	document.getElementById("liContact").classList.remove('active');
 	document.getElementById(newElement).classList.add('active');
 }
+
+function applyNavbarHeightToBody()
+{
+	let element = getElementById("myNavbar");
+	let elementHeight = element.offsetHeight;
+	
+}
