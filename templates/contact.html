@@ -2,8 +2,28 @@
 	<h2>Contáctame</h2>
 	<div class="projectsContent">
 		<div class="row">
-			<div class="col-md-4"></div>
-			<div class="col-md-8"></div>
+			<div class="col-md-4">
+				<p id="contactMsg"><span class="font-weight-bold">¿Desea comunicarse con nosotros?</span><br>Use una (¡o todas!) de las herramientas que ponemos a su disposición. Pase a visitarnos, llame al teléfono o pongase en contacto rellenando el siguiente formluario. <br>Contacte sin compromiso y con la seguridad de que será respondido a la mayor brevedad posible</p>
+				<div id="contactWaysContainer">
+					<button type="button" class="btn btn-dark w-100" id="btnTel" onclick="window.location.href='tel:+593-9-9999999'"><i class="bi bi-telephone-fill"></i> Llámenos</button>
+					<button type="button" class="btn btn-dark w-100" id="btnAddress"><i class="bi bi-house-fill"></i> Visítenos</button>
+				</div>
+			</div>
+			<div class="col-md-8">
+				<form>
+					<div class="form-group" id="formYourData">
+						<input type="text" class="form-control" id="inputName" placeholder="Nombre" required>
+
+						<input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Correo electrónico" required>
+
+						<input type="tel" class="form-control" id="inputPhone" placeholder="Teléfono" required>
+					</div>
+					<div class="form-group" id="formMessage">
+						<textarea class="form-control" id="inputMessage" rows="5" placeholder="¿Qué desea contarnos?"></textarea>
+					</div>
+					<button type="submit" class="btn btn-dark w-100">Enviar</button>
+				</form>
+			</div>
 		</div>
 	</div>
 </div>

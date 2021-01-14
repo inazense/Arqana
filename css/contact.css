@@ -1,1 +1,25 @@
+#formYourData input
+{
+	margin-top: 1em;
+}
 
+#contactMsg 
+{
+	margin-top: 1em;
+	text-align: justify;
+}
+
+.contactWays .bi 
+{
+	font-size: 2em;
+}
+
+#contactWaysContainer
+{
+	margin-top: 25%;
+}
+
+#btnAddress
+{
+	margin-top: 1em;
+}
