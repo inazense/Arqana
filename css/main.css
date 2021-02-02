@@ -14,3 +14,12 @@ footer
 	background-color: rgba(0, 0, 0, 0.2);
 	font-size: 0.8em;
 }
+
+span.anchor 
+{
+    margin-top: -0.5em; /* height of nav, in this case 54px */
+    display: block;
+    height: 0.5em; /* height of nav, in this case 54px */
+    visibility: hidden;
+    position: relative;
+}
