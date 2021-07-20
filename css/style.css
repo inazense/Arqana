@@ -980,8 +980,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 0;
   line-height: 1;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 58px;
+  height: 58px;
   background: #fff;
   border-radius: 50%;
   transition: 0.2s linear;
@@ -990,7 +990,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item figure .link-preview i,
 #portfolio .portfolio-item figure .link-details i {
   padding-top: 6px;
-  font-size: 22px;
+  font-size: 43px;
   color: #333;
 }
 
@@ -1006,7 +1006,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure .link-preview {
   left: calc(50% - 38px);
-  top: calc(50% - 18px);
+  top: calc(50% - 25px);
 }
 
 #portfolio .portfolio-item figure .link-details {
@@ -1016,7 +1016,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item figure:hover .link-preview {
   opacity: 1;
-  left: calc(50% - 44px);
+  left: calc(50% - 28px);
 }
 
 #portfolio .portfolio-item figure:hover .link-details {
