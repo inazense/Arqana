@@ -629,11 +629,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 18px;
 }
 
-#featured-services h4 a {
+#featured-services h4 span {
   color: #fff;
 }
 
-#featured-services h4 a:hover {
+#featured-services h4 span:hover {
   color: #18d26e;
 }
 
@@ -725,11 +725,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 40px 0 12px 0;
 }
 
-#about .about-col h2 a {
+#about .about-col h2 span {
   color: #000;
 }
 
-#about .about-col h2 a:hover {
+#about .about-col h2 span:hover {
   color: #18d26e;
 }
 
@@ -772,11 +772,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 18px;
 }
 
-#services .title a {
+#services .title span {
   color: #111;
 }
 
-#services .box:hover .title a {
+#services .box:hover .title span {
   color: #18d26e;
 }
 
