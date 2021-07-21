@@ -1,0 +1,68 @@
+{
+	"pictures" :
+	[
+		{
+			"img" 			: "app1.jpg",
+			"title" 		: "App 1",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-app"
+		},
+		{
+			"img" 			: "app2.jpg",
+			"title" 		: "App 2",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-app"
+		},
+		{
+			"img" 			: "app3.jpg",
+			"title" 		: "App 3",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-app"
+		},
+		{
+			"img" 			: "web1.jpg",
+			"title" 		: "Web 1",
+			"category" 		: "Parques",
+			"data" 			: "parques",
+			"filter" 		: "filter-web"
+		},
+		{
+			"img" 			: "web2.jpg",
+			"title" 		: "Web 2",
+			"category" 		: "Parques",
+			"data" 			: "parques",
+			"filter" 		: "filter-web"
+		},
+		{
+			"img" 			: "web3.jpg",
+			"title" 		: "Web 3",
+			"category" 		: "Parques",
+			"data" 			: "parques",
+			"filter" 		: "filter-web"
+		},
+		{
+			"img" 			: "card1.jpg",
+			"title" 		: "Card 1",
+			"category" 		: "Público",
+			"data" 			: "publico",
+			"filter" 		: "filter-card"
+		},
+		{
+			"img" 			: "card2.jpg",
+			"title" 		: "Card 2",
+			"category" 		: "Público",
+			"data" 			: "publico",
+			"filter" 		: "filter-card"
+		},
+		{
+			"img" 			: "card3.jpg",
+			"title" 		: "Card 3",
+			"category" 		: "Público",
+			"data" 			: "publico",
+			"filter" 		: "filter-card"
+		}
+	]
+}
