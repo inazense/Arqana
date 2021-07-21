@@ -1155,9 +1155,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .gform #errormessage {
   color: #fff;
-  background-color: red;
+  background-color: rgb(238, 85, 85);
   display: none;
-  border: 1px solid red;
+  border: 1px solid rgb(238, 85, 85));
   border-radius: 20px;
   text-align: center;
   padding: 15px;
@@ -1190,6 +1190,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #contact .gform button[type="submit"] {
   background: #18d26e;
   border: 0;
+  border-radius: 20px;
   padding: 10px 30px;
   color: #fff;
   transition: 0.4s;
