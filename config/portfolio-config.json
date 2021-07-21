@@ -2,64 +2,64 @@
 	"pictures" :
 	[
 		{
-			"img" 			: "app1.jpg",
-			"title" 		: "App 1",
+			"img" 			: "resimontalvo1.jpg",
+			"title" 		: "Residencia Montalvo",
 			"category" 		: "Viviendas",
 			"data" 			: "viviendas",
 			"filter" 		: "filter-viviendas"
 		},
 		{
-			"img" 			: "app2.jpg",
-			"title" 		: "App 2",
+			"img" 			: "resicarvano.jpg",
+			"title" 		: "Residencia Carvano",
 			"category" 		: "Viviendas",
 			"data" 			: "viviendas",
 			"filter" 		: "filter-viviendas"
 		},
 		{
-			"img" 			: "app3.jpg",
-			"title" 		: "App 3",
+			"img" 			: "resimontalvo3.jpg",
+			"title" 		: "Residencia Montalvo",
 			"category" 		: "Viviendas",
 			"data" 			: "viviendas",
 			"filter" 		: "filter-viviendas"
 		},
 		{
-			"img" 			: "web1.jpg",
-			"title" 		: "Web 1",
+			"img" 			: "parquetulcan.jpg",
+			"title" 		: "Cementerio Municipal Tulcán",
 			"category" 		: "Parques",
 			"data" 			: "parques",
 			"filter" 		: "filter-parques"
 		},
 		{
-			"img" 			: "web2.jpg",
-			"title" 		: "Web 2",
+			"img" 			: "miguelservet1.jpg",
+			"title" 		: "Fuente Miguel Servet",
 			"category" 		: "Parques",
 			"data" 			: "parques",
 			"filter" 		: "filter-parques"
 		},
 		{
-			"img" 			: "web3.jpg",
-			"title" 		: "Web 3",
+			"img" 			: "parqueolas.jpg",
+			"title" 		: "Parque de las olas",
 			"category" 		: "Parques",
 			"data" 			: "parques",
 			"filter" 		: "filter-parques"
 		},
 		{
-			"img" 			: "card1.jpg",
-			"title" 		: "Card 1",
+			"img" 			: "cabanachical.jpg",
+			"title" 		: "Cabaña Chical",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "plazaarmas.jpg",
+			"title" 		: "Plaza de las armas",
 			"category" 		: "Público",
 			"data" 			: "publico",
 			"filter" 		: "filter-publico"
 		},
 		{
-			"img" 			: "card2.jpg",
-			"title" 		: "Card 2",
-			"category" 		: "Público",
-			"data" 			: "publico",
-			"filter" 		: "filter-publico"
-		},
-		{
-			"img" 			: "card3.jpg",
-			"title" 		: "Card 3",
+			"img" 			: "miraflores.jpg",
+			"title" 		: "Miraflores",
 			"category" 		: "Público",
 			"data" 			: "publico",
 			"filter" 		: "filter-publico"
