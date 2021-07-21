@@ -17,7 +17,6 @@ function addPortfolioPicturesToHTML(data)
 {
 	for (let picture of data.pictures)
 	{
-		console.log(picture.img);
 		generateHTMLTag(picture);
 	}
 }
