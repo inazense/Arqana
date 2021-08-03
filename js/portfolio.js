@@ -1,4 +1,5 @@
 var jsonPath = "/config/portfolio-config.json";
+var jsonPath2 = "config/portfolio-config.json";
 var imgPath = "img/portfolio/";
 
 function readJsonArray(file)
@@ -10,6 +11,10 @@ function readJsonArray(file)
 	{
 		var result = JSON.parse(request.response);
 		return result;
+	}
+	else
+	{
+		return false;
 	}
 }
 
@@ -30,4 +35,8 @@ function generateHTMLTag(picture)
 }
 
 var data = readJsonArray(jsonPath);
+if (!data)
+{
+	var data = readJsonArray(jsonPath2);
+}
 addPortfolioPicturesToHTML(data);
