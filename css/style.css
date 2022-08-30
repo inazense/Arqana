@@ -9,6 +9,17 @@
 # General
 --------------------------------------------------------------*/
 
+/* Add title fonts */
+@font-face {
+  font-family: bernhc;
+  src: url(/lib/title-fonts/BERNHC.TTF);
+}
+
+@font-face {
+  font-family: royalrumble;
+  src: url(/lib/title-fonts/Royal_Rumble_Haettenschweiler.ttf);
+}
+
 body {
   background: #fff;
   color: #666666;
@@ -155,7 +166,7 @@ hr {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "bernhc";
   font-weight: 700;
   letter-spacing: 3px;
 }
@@ -242,6 +253,16 @@ hr {
   width: 80%;
   margin: 0 auto 30px auto;
   color: #fff;
+}
+
+.lowerCaseFont {
+  font-family: "bernhc";
+  letter-spacing: 0.05em;
+}
+
+.upperCaseFont {
+  font-family: "royalrumble", sans-serif;
+  letter-spacing: 0.2em;
 }
 
 #intro .carousel-fade {
