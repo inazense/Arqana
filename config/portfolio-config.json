@@ -9,13 +9,6 @@
 			"filter" 		: "filter-viviendas"
 		},
 		{
-			"img" 			: "resicarvano.jpg",
-			"title" 		: "Residencia Carvano",
-			"category" 		: "Viviendas",
-			"data" 			: "viviendas",
-			"filter" 		: "filter-viviendas"
-		},
-		{
 			"img" 			: "resimontalvo3.jpg",
 			"title" 		: "Residencia Montalvo",
 			"category" 		: "Viviendas",
@@ -23,46 +16,88 @@
 			"filter" 		: "filter-viviendas"
 		},
 		{
-			"img" 			: "parquetulcan.jpg",
-			"title" 		: "Cementerio Municipal Tulcán",
-			"category" 		: "Parques",
-			"data" 			: "parques",
-			"filter" 		: "filter-parques"
-		},
-		{
-			"img" 			: "miguelservet1.jpg",
-			"title" 		: "Fuente Miguel Servet",
-			"category" 		: "Parques",
-			"data" 			: "parques",
-			"filter" 		: "filter-parques"
-		},
-		{
-			"img" 			: "parqueolas.jpg",
-			"title" 		: "Parque de las olas",
-			"category" 		: "Parques",
-			"data" 			: "parques",
-			"filter" 		: "filter-parques"
-		},
-		{
-			"img" 			: "cabanachical.jpg",
-			"title" 		: "Cabaña Chical",
+			"img" 			: "resicarvano.jpg",
+			"title" 		: "Residencia Carvano",
 			"category" 		: "Viviendas",
 			"data" 			: "viviendas",
 			"filter" 		: "filter-viviendas"
 		},
 		{
-			"img" 			: "plazaarmas.jpg",
-			"title" 		: "Plaza de las armas",
+			"img" 			: "restaurantechanul.png",
+			"title" 		: "Restaurante Chanul",
 			"category" 		: "Público",
 			"data" 			: "publico",
 			"filter" 		: "filter-publico"
 		},
 		{
-			"img" 			: "miraflores.jpg",
-			"title" 		: "Miraflores",
+			"img" 			: "restaurantechanul2.png",
+			"title" 		: "Restaurante Chanul",
 			"category" 		: "Público",
 			"data" 			: "publico",
 			"filter" 		: "filter-publico"
+		},
+		{
+			"img" 			: "flotaimbabura.png",
+			"title" 		: "Flota Imbabura",
+			"category" 		: "Público",
+			"data" 			: "publico",
+			"filter" 		: "filter-publico"
+		},
+		{
+			"img" 			: "flotaimbabura2.png",
+			"title" 		: "Flota Imbabura",
+			"category" 		: "Público",
+			"data" 			: "publico",
+			"filter" 		: "filter-publico"
+		},
+		{
+			"img" 			: "cabanaselchical1.png",
+			"title" 		: "Cabaña El Chical",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "cabanaselchical2.png",
+			"title" 		: "Cabaña El Chical",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "cabanaselchical3.png",
+			"title" 		: "Cabaña El Chical",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "casaortega1.png",
+			"title" 		: "Casa Ortega",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "cooperativapablomunoz1.png",
+			"title" 		: "Cooperativa Pablo Muñoz",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "cooperativapablomunoz2.png",
+			"title" 		: "Cooperativa Pablo Muñoz",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
+		},
+		{
+			"img" 			: "cooperativapablomunoz3.png",
+			"title" 		: "Cooperativa Pablo Muñoz",
+			"category" 		: "Viviendas",
+			"data" 			: "viviendas",
+			"filter" 		: "filter-viviendas"
 		}
 	]
 }
